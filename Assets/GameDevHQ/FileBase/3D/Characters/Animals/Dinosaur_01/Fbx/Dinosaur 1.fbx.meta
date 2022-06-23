@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: eff4c75026f695e41b5bb4e2fe3f4fae
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Back_1
+    100004: Back_2
+    100006: Chest
+    100008: Dinosaur_1
+    100010: Head
+    100012: Head_6
+    100014: Head_7
+    100016: Hip
+    100018: Jaw_6
+    100020: Jaw_7
+    100022: Jaw_8
+    100024: L_Arm_10
+    100026: L_Arm_10_2
+    100028: L_Arm_4
+    100030: L_Arm_5
+    100032: L_Arm_6
+    100034: L_Arm_7
+    100036: L_Arm_8
+    100038: L_Arm_8_2
+    100040: L_Arm_8_3
+    100042: L_Arm_9
+    100044: L_Arm_9_2
+    100046: L_Arm_9_3
+    100048: L_Leg_1
+    100050: L_Leg_2
+    100052: L_Leg_3
+    100054: L_Leg_4
+    100056: L_Leg_5
+    100058: L_Leg_6
+    100060: Neck
+    100062: R_Arm_10
+    100064: R_Arm_10_2
+    100066: R_Arm_4
+    100068: R_Arm_5
+    100070: R_Arm_6
+    100072: R_Arm_7
+    100074: R_Arm_8
+    100076: R_Arm_8_2
+    100078: R_Arm_8_3
+    100080: R_Arm_9
+    100082: R_Arm_9_2
+    100084: R_Arm_9_3
+    100086: R_Leg_1
+    100088: R_Leg_2
+    100090: R_Leg_3
+    100092: R_Leg_4
+    100094: R_Leg_5
+    100096: R_Leg_6
+    100098: Tail_1
+    100100: Tail_2
+    100102: Tail_3
+    100104: Tail_4
+    100106: Tail_5
+    400000: //RootNode
+    400002: Back_1
+    400004: Back_2
+    400006: Chest
+    400008: Dinosaur_1
+    400010: Head
+    400012: Head_6
+    400014: Head_7
+    400016: Hip
+    400018: Jaw_6
+    400020: Jaw_7
+    400022: Jaw_8
+    400024: L_Arm_10
+    400026: L_Arm_10_2
+    400028: L_Arm_4
+    400030: L_Arm_5
+    400032: L_Arm_6
+    400034: L_Arm_7
+    400036: L_Arm_8
+    400038: L_Arm_8_2
+    400040: L_Arm_8_3
+    400042: L_Arm_9
+    400044: L_Arm_9_2
+    400046: L_Arm_9_3
+    400048: L_Leg_1
+    400050: L_Leg_2
+    400052: L_Leg_3
+    400054: L_Leg_4
+    400056: L_Leg_5
+    400058: L_Leg_6
+    400060: Neck
+    400062: R_Arm_10
+    400064: R_Arm_10_2
+    400066: R_Arm_4
+    400068: R_Arm_5
+    400070: R_Arm_6
+    400072: R_Arm_7
+    400074: R_Arm_8
+    400076: R_Arm_8_2
+    400078: R_Arm_8_3
+    400080: R_Arm_9
+    400082: R_Arm_9_2
+    400084: R_Arm_9_3
+    400086: R_Leg_1
+    400088: R_Leg_2
+    400090: R_Leg_3
+    400092: R_Leg_4
+    400094: R_Leg_5
+    400096: R_Leg_6
+    400098: Tail_1
+    400100: Tail_2
+    400102: Tail_3
+    400104: Tail_4
+    400106: Tail_5
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Dinosaur_1
+    9500000: //RootNode
+    13700000: Dinosaur_1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dinosaur_1_Mat
+    second: {fileID: 2100000, guid: 50381aacb142cdb4688ee02c890ebbb7, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
